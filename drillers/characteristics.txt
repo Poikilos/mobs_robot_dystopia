@@ -1,0 +1,143 @@
+Magma Driller
+
+Damage: 2 full hearts
+Health: 40
+Immune to: lava
+
+Dies in lava and if right-clicked with a bucket, can fill the bucket with lava, turning the Magma Driller into a Normal Driller,
+
+Normal Driller
+
+Damage: half a heart
+Health: 50
+Immune to: iron and gold weapons
+
+Very weak and easy to beat, talk about two words that go together, but they run faster than a player, and die in water.
+
+Ultra Driller (a.k.a Boss Driller)
+
+Damage:4 hearts 3 if wielding gold weapon 2 if wield diamond weapon half a heart if a mese weapon
+Health:200
+Immune to: Water, Lava
+
+Uses the normal driller skin, but he is no ordinary driller, he has a ton of health, immunity, and strong attacks, wow, the drillers really stepped up their game
+
+Villager Driller(NEW!!!)
+
+Health:10
+Peaceful:
+Immune to: Lava and Water
+
+Even weaker than normal drillers, they suck in combat situations, but they have crazy awsome trades.
+
+Dracula Driller(NEW!)
+
+Health: 50
+Attack: 10 health points
+Immune to: Anything at nightime
+
+They only attack villager drillers, and the villager drillers have a 50/50 chance of either just plain dying or turning into vampire drillers.
+
+Vampire Driller(NEW!)
+
+Health: 60
+Attack: 5 health points
+Immune to: Everything at nightime except for a stick
+
+There armies of these guys and they spawn naturally, not just by the Dracula Driller, they spawn in caves and near lava, which often gets them killed.
+
+Robot Richard(EXCLUSIVE!)(NEW!)
+
+Health: 100
+Attack: 100 health points
+Immune to: Water and Lava
+
+The only way to get the exclusive characters spawn eggs, which can only be obtained by defeating the Boss Driller, but is so awsome! Because he is an ally, and he does a bunch of damage. Yeeeeeeeaaaaaaaaaaaaahhhhhhhhhhh!!!!!!!!!!!!!!!!!!!!
+
+Puppet(EXCLUSIVE!)(NEW!)
+
+It's spawn egg can be obtained two ways, by crafting or by defeating a Magma Driller,
+They spawn rarely in the wild. He is also an ally.
+
+Crafting Recipe:
+WHITE WOOL|STICK|WHITE WOOL|
+STICK| GOLD INGOT|STICK
+WHITE WOOL|STICK|WHITE WOOL
+
+Attack: 10 health points
+Health: 80
+Immune to: Magma, it heals in water
+
+Nightime Driller(NEW!)
+
+Attack: a half a heart
+Health: 1 health point
+Immune to: Water
+
+Upon Death, this driller will turn the day to night.
+
+Tails The Reaper(EXCLUSIVE!)(RARE!)(NEW!)
+
+Health: 400 health points
+Damage: 100
+Immune to: Mese weapons, Water, and Lava
+Drops: Mese Block
+
+Even though he has no arms, he makes up with Attack and Health
+
+Mineyoshi(EXCLUSIVE)(RARE!)(NEW!)
+
+Health: 400
+Damage: 100
+Immune to: All weapons except for gold, Magma, Water
+
+Unlike Tails Reaper, he has arms and drops commonly Nyan Cat Rainbows, and rarely drops Nyan Cats
+
+LIVING Taco
+
+Health: 50
+Attack:1 health point
+Immune to: Water
+Drops:
+Common:
+Taco
+Stick
+TNT
+Gunpowder
+Mese crystal shard
+RARE!!
+Mystical Taco
+Mese sword
+
+It only attacks hostile mobs, but, if he provoked, he will resort to attacking you, so, don't attack. please...
+
+So basically, i will add the skins and you will make the code, just put a random scrap skin, but basically they:
+*Attack each other and any other mobs and players
+*Die in lava and water
+*They drop drills
+*They will fall over Minecraft-style
+*They have baby versions
+I hope somebody can make this for me.
+And i found a cool mod that i want somebody to make a Magma Driller for:
+https://forum.minetest.net/viewtopic.php?f=9&t=13880&hilit=underworld
+Make them spawn near Nether Brick and they die in water and regen in lava.
+Types:
+-Ultra Driller
+Fires Ultra Drills at the player and other entities.
+-Magma Driller
+They spawn near Nether Brick and they die in water and regen in lava.
+-Driller
+Will drop Drills and steel ingots upon death and die in water and lava. Spawn near Steel/Iron Ore.
+-Baby Driller
+Drop Steel ore and and die in lava and regen in water.
+-Meseous Driller
+Runs fast, shoots Drills and Mese Crystal Shards at players and other entities, regen in both water and lava and die when around mese(the irony?).Jumps high and takes no fall damage and fall slow.
+-Zombii Driller
+Knocks back players but doesn't hurt them, goes after every type of Driller and turns them into Zombii Drillers.
+-KING Driller
+Is absolutely huge, spawns every other type of drillers, shoots Fire-Charged Drills everywhere and burns everything, spawns with a chance of 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001
+spawning.
+-Summoner Driller
+Spawns Magical Drillers and spawns in dungeons,caves, and near ice.
+-Magical Driller
+Follows Summoner Drillers and attacks players and other entities.
