@@ -1,0 +1,5 @@
+Zombie model derived from the default player model by Nathan Salapat.
+
+Textures Created by me, TTFYT by SA 3.0
+
+Code copy/pasted with minor changes from Tenplus1's mob API, licensed as MIT.
