@@ -44,6 +44,11 @@ username is TailsTheFoxDoes MT)
   - textures: 2016 TTFYT
   - model (creatures_zombie.b3d): (c) Copyright (2014-2016) BlockMen; CC-BY-SA 3.0
     - https://github.com/BlockMen/cme
+  - sounds:
+    - creatures_zombie.1.ogg, Under7dude(https://freesound.org/people/Under7dude) CC0
+    - creatures_zombie.2.ogg, Under7dude(https://freesound.org/people/Under7dude) CC0
+    - creatures_zombie.3.ogg, Under7dude(https://freesound.org/people/Under7dude) CC0
+    - creatures_zombie_death.ogg, Under7dude(https://freesound.org/people/Under7dude) CC0
 - Withered Teletron/TTA:
   - models (zombie_base.*, zombie_crawler.*, zombie_normal.*, zombie_one-arm.*): 2016 Nathan Salapat
     - https://github.com/minetest-mods/zombies
