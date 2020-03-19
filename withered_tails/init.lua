@@ -1,22 +1,20 @@
---Part of the Withered Update!
---A few tables to simplify.
 Skins = {
-{"torn_purple.png"},
-{"normal_orange.png"},
-{"withered.png"},
-{"STails.png"},
+	{"torn_purple.png"},
+	{"normal_orange.png"},
+	{"withered.png"},
+	{"STails.png"},
 }
 
 Inventory = {
-{name = "default:steel_ingot", chance = 2, min = 3, max = 5},
-{name = "default:gold_ingot", chance = 4, min = 2, max = 5},
-{name = "default:mese_sword", chance = 10, min = 1, max = 4},
+	{name = "default:steel_ingot", chance = 2, min = 3, max = 5},
+	{name = "default:gold_ingot", chance = 4, min = 2, max = 5},
+	{name = "default:mese_sword", chance = 10, min = 1, max = 4},
 }
 
 Noise = {
-random = "idle1",
-random = "idle2",
-attack = "damage",
+	random = "idle1",
+	random = "idle2",
+	attack = "damage",
 }
 
 mobs:register_mob('withered_tails:wt1', {
@@ -125,7 +123,7 @@ mobs:register_mob('withered_tails:wt3', {
 		speed_run = 20,
 		punch_speed = 20,
 		stand_start = 0,
-            	stand_end = 40,
+		stand_end = 40,
 		walk_start = 41,
 		walk_end = 101,
 		run_start = 41,

@@ -1,5 +1,3 @@
-print("Snappers Mod: Code And Some Art By azekill_DIABLO, Ida By Tails The MeseMinecart Have Fun!")
-print("Edited for trash_can by TTFYT")
 mobs:register_mob("trash_can:trash_can", {
 type = "monster",
 passive = false,

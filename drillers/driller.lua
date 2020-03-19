@@ -15,21 +15,19 @@ drillers:register_mob ("drillers:driller", {
 		{"driller.png"},
 	},
 	makes_footstep_sound = true,
-        sounds = {
-                
-        },
+	sounds = {},
 	walk_velocity = 7,
 	run_velocity = 10,
 	jump = true,
 	drops = {
 		{name = "default:steel_ingot",
-		chance = 10, min = 1, max = 45},
+		 chance = 10, min = 1, max = 45},
 	},
 	water_damage = 25,
 	lava_damage = 0,
 	light_damage = 0,
 	follow = {
-	    "drillers:driller" ,
+		"drillers:driller",
 	},
 	view_range = 12,
 	owner = "",
@@ -46,7 +44,7 @@ drillers:register_mob ("drillers:driller", {
 		punch_start = 200,
 		punch_end = 219,
 	},
-	
+
 })
 
 
