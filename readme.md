@@ -30,18 +30,19 @@ repo with versions in the Downloads area).
     ambiguous citation for the "...teletron" as "Nathan Salapat" is
     replaced by the correct authors (MirceaKitsune and stujones11 for
     the player model in some mods; them and Nathan Salapat for the
-    zombie models based on the player model.
+    zombie models based on the player model in withered_tails).
     - The teletron model is unrelated to withered_tails
       ("Withered teletron/TTA") and is rather the BlockMen zombie model
-      for CME.
+      from CME.
     - The "default player model" (character.b3d) itself is not among the
       upstream Nathan Salapat models (hence not in withered_tails), but
       is in the drillers and tailstheanimatronic mods. Here is the
       license:
       <https://raw.githubusercontent.com/minetest/minetest_game/master/mods/player_api/README.txt>)
   - The forum thread is considered authoritative as far as authors go,
-    since much of the code, including code containing author lists, is
-    copypasta from Snappers (code which azekill_DIABLO provided).
+    since author lists in the code are copypasta from Snappers (code
+    and comments which azekill_DIABLO wrote while helping create the
+    modpack).
 - Make indentations uniform.
 
 ## Licenses
