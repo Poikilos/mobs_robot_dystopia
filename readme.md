@@ -1,5 +1,5 @@
-# [modpack] Robot Distopia Mobs [mobs_robot_distopia]
-<https://github.com/poikilos/mobs_robot_distopia>
+# [modpack] Robot Dystopia Mobs [mobs_robot_dystopia]
+<https://github.com/poikilos/mobs_robot_dystopia>
 
 This is a fork of [[Modpack] The Mobpack
 [mob_pack]](https://forum.minetest.org/viewtopic.php?f=9&t=14822>), but
@@ -10,7 +10,7 @@ repo with versions in the Downloads area).
 
 
 ## Differences in Poikilos' fork
-- See progress at: [issues](https://github.com/poikilos/mobs_robot_distopia/issues?q=is%3Aissue).
+- See progress at: [issues](https://github.com/poikilos/mobs_robot_dystopia/issues?q=is%3Aissue).
 - The releases are in version control.
 - The license information is more complete and correct.
   - The teletron code uses the BlockMen zombie as a reference, but the
